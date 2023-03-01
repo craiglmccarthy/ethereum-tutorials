@@ -373,3 +373,5 @@ testeth
 node_modules
 bin_output
 logs
+
+ganache-2.7.0-linux-x86_64.AppImage
